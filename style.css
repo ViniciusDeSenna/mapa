@@ -15,15 +15,15 @@ header{
 }
 
 .logo{
-    height: 100px;
+    height: 50px;
 }
 
 .mapBox{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1366px;
-    height: 668px;
+    width: 3000px;
+    height: 3000px;
     background: blue;
 }
 
